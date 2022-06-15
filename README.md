@@ -1,6 +1,5 @@
-# DataEngineeringAssignment1
+# Data Engineering Assignment 1
 
-# Data Engineering
 ## Postgres to MongoDB (Airflow)
 
 The main Idea of our exercise is to extract from Postgresql table and the produce json file is pushed to MongoDB database.
